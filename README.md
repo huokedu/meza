@@ -1,5 +1,7 @@
 # meza
 
+This is a dummy commit to create a Travis CI job in search of a test failure due to the Parsoid restart problem. I can then deliberately leave the Travis CI job failing as an example.
+
 [![Build Status](https://travis-ci.org/enterprisemediawiki/meza.svg?branch=master)](https://travis-ci.org/enterprisemediawiki/meza)
 [![Code Climate](https://codeclimate.com/github/enterprisemediawiki/meza/badges/gpa.svg)](https://codeclimate.com/github/enterprisemediawiki/meza)
 
